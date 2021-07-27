@@ -1,5 +1,5 @@
 # Movies-DBMS
-Movies and Shows Database Management System
+Movies and Shows Database Management System.
 Design a database consisting of information about Movies and TV Shows. Database should have information about actors, directors, songs, release date, production, genre, etc. It should also have information about where to watch specific movies.
   
 ## ERD
